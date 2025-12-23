@@ -26,4 +26,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obump&layout=compact&bg_color=60,d99608,c816d4&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+    <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/obump&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
